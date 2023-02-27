@@ -1,3 +1,4 @@
+
 header{
     height: 100px;
     background-image: url(../imgcopia/pattern.png);
@@ -7,17 +8,19 @@ header{
 
 
 .headerimg{
-    margin-left: 10px;
+    margin-left: 450px;
     width: 150px;
     height: 150px;
     
 }
 
 main {
-    display: inline-block;
+    display: table;
     margin: auto;
-    width: 1050px;
+    max-width: 1050px;
     font-weight: 800;
+   
+
 }
 
 
