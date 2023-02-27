@@ -55,8 +55,19 @@ h1{
 
 table{
     width: 100%;
+    border-spacing: 0px;
 }
 
 .firstline{
     background-color: rgb(0, 204, 255);
+    color: white;
+}
+
+.secondline{
+    background-color: rgb(175, 219, 230);
+    height: 50px;
+}
+
+.accapo{
+    width: 350px;
 }
