@@ -7,10 +7,10 @@ header{
 
 
 .headerimg{
-    height: 150px;
+    margin-left: 10px;
     width: 150px;
-    padding-top: 5px;
-    padding-left: 3px;
+    height: 150px;
+    
 }
 
 main {
@@ -19,12 +19,7 @@ main {
     width: 1050px;
     font-weight: 800;
 }
-.headerimg{
-    height: 150px;
-    width: 150px;
-    padding-top: 5px;
-    padding-left: 3px;
-}
+
 
 .titolo{
     width: 900px;
