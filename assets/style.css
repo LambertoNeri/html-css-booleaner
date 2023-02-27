@@ -5,6 +5,14 @@ header{
     background-size: 20% ;
 }
 
+
+.headerimg{
+    height: 150px;
+    width: 150px;
+    padding-top: 5px;
+    padding-left: 3px;
+}
+
 main {
     display: inline-block;
     margin: auto;
@@ -27,13 +35,16 @@ main {
     color: grey
 }
     
-
+.primospan{
+    font-size: 12px;
+}
 
 h1{
     font-size: 35px;
     margin-bottom: 0;
     font-weight: 800;
 }
+
 
 .booleaner{
     color: rgb(0, 204, 255);
@@ -42,6 +53,7 @@ h1{
 
 .immagini1{
     padding-top: 20px;
+    width: 1050px;
 }
 
 .testopiccolo{
