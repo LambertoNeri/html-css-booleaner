@@ -2,8 +2,15 @@ header{
     height: 100px;
     background-image: url(../img/pattern.png);
     background-color: rgb(0, 204, 255);
+    background-size: 20% ;
 }
 
+main {
+    display: inline-block;
+    margin: auto;
+    width: 1050px;
+    font-weight: 800;
+}
 .headerimg{
     height: 150px;
     width: 150px;
@@ -11,10 +18,45 @@ header{
     padding-left: 3px;
 }
 
+.titolo{
+    width: 900px;
+}
+
+.idi{
+    font-weight: 800;
+    color: grey
+}
+    
+
+
 h1{
-    font-size: 45px;
+    font-size: 35px;
+    margin-bottom: 0;
+    font-weight: 800;
 }
 
 .booleaner{
     color: rgb(0, 204, 255);
+    
+}
+
+.immagini1{
+    padding-top: 20px;
+}
+
+.testopiccolo{
+    font-size: 10px;
+    text-align: center;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+table{
+    width: 100%;
+}
+
+.firstline{
+    background-color: rgb(0, 204, 255);
 }
